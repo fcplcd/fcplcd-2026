@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/release-25.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/release-26.05";
     flake-utils.url = "github:numtide/flake-utils";
   };
 
@@ -11,11 +11,11 @@
       };
   in {
     devShell = pkgs.mkShellNoCC {
-      packages = with pkgs.coqPackages_8_20; [
-        coq
+      packages = with pkgs.rocqPackages_9_1; [
+        rocq-core
         stdlib
         stdpp
-        vscoq-language-server
+        vsrocq-language-server
       ];
     };
   });
