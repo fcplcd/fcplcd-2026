@@ -18,7 +18,7 @@ The material in this repository will be updated as the semester progresses.
 ---
 
 <a href="https://gitlab.barkhauseninstitut.org/versa/teaching/fcplcd-2025">FCPLCD Exercise</a> © 2026 by <a href="https://www.barkhauseninstitut.org/">Barkhausen Institut</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
-![](https://mirrors.creativecommons.org/presskit/icons/cc.svg){width=18px}
-![](https://mirrors.creativecommons.org/presskit/icons/by.svg){width=18px}
-![](https://mirrors.creativecommons.org/presskit/icons/nc.svg){width=18px}
-![](https://mirrors.creativecommons.org/presskit/icons/sa.svg){width=18px}
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="18">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="18">
+<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" width="18">
+<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" width="18">
